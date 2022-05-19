@@ -10,8 +10,10 @@ redirect_from:
   - /github/developing-online-with-codespaces/about-codespaces
   - /codespaces/getting-started-with-codespaces/about-codespaces
   - /codespaces/about-codespaces
-versions:
-  fpt: '*'
+versions:.1.0
+
+  fpt: '*'77
+
   ghec: '*'
 type: overview
 topics:
